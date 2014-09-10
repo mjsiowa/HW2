@@ -1,0 +1,23 @@
+body {		color: black;
+			background-color: white;
+			font-family: Veranda, Geneva, Arial, Helvetica, sans-serif;
+			font-size: 10pt;}
+			
+h1 { font-style:italic; font-weight:bold; font-size: 16pt;}
+
+h2 { font-style:italic; font-weight:bold; font-size: 14pt;}
+
+a {display:none;}
+
+
+.info_paragraph {background-color:white; border:3px solid green; width:65%; padding-left:5pt; padding-right:5pt;}
+
+.resume_paragraph {width:75%; padding-left:25pt; padding-right:25pt;}
+
+.footer { font-size:11pt; line-height:16pt; padding-top:15pt; padding-bottom:8pt;}
+
+.hidden {display:none;}
+
+#resume-pic{display:none;}
+	
+#resume-contact{width:55%;}

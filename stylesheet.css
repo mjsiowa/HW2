@@ -11,7 +11,14 @@ a { text-decoration:none; }
 		
 a:hover, a:active { text-decoration:underline; color:yellow; }
 
-.resume-pic{
+.info_paragraph {background-color:white; border:3px solid green; width:65%; padding-left:5pt; padding-right:5pt;}
+
+.resume_paragraph {width:55%; padding-left:25pt; padding-right:25pt;}
+
+.footer { font-size:11pt; line-height:16pt; padding-top:15pt; padding-bottom:8pt;}
+
+
+#resume-pic{
 			float:left;
 			border:3px solid black;
 			padding-top:14px;
@@ -23,10 +30,4 @@ a:hover, a:active { text-decoration:underline; color:yellow; }
 			background-color:white;
 		}
 	
-.resume-contact {padding-top:8pt; padding-bottom:40pt;}
-
-.info_paragraph {background-color:white; border:3px solid green; width:65%; padding-left:5pt; padding-right:5pt;}
-
-.resume_paragraph {width:55%; padding-left:25pt; padding-right:25pt;}
-
-.footer { font-size:11pt; line-height:16pt; padding-top:15pt; padding-bottom:8pt;}
+#resume-contact {padding-top:8pt; padding-bottom:40pt;}
